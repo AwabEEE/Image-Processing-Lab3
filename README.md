@@ -20,6 +20,7 @@ MATLAB Code Window
 
 
 MATLAB Output Figures
+
 <img src="Screenshot.png" alt="Screenshot of Output Window" width="400"/>
 
 
