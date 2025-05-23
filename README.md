@@ -18,8 +18,11 @@ The brain.jpg image is used as the base for all image processing tasks.
 MATLAB Code Window
 <img src="ScreenshotCodeHW3.png" alt="Screenshot of MATLAB Code" width="400"/>
 
+
 MATLAB Output Figures
 <img src="Screenshot.png" alt="Screenshot of Output Window" width="400"/>
+
+
 
 🧪 Files in This Repository
 File Name	Description
